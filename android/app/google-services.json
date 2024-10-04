@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999394715123",
+    "project_id": "push-474fb",
+    "storage_bucket": "push-474fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999394715123:android:becdc654c75b30d487de86",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA27C4gzLLaQajCoNFg2PCSBxBPcM2Mnls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999394715123:android:a04771e588057c5687de86",
+        "android_client_info": {
+          "package_name": "com.example.webrtc_video_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA27C4gzLLaQajCoNFg2PCSBxBPcM2Mnls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
